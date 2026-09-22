@@ -15,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Tautan Desain UI/UX (Figma)
+- [Link Figma Smart-Cart & E-Catalog](https://www.figma.com/design/a6k0HVJgPI9RfwK1net1N2/Untitled?node-id=0-1&t=R9UNBSkMt94Rqrti-1)
